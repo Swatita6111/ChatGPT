@@ -14,6 +14,7 @@ A browser-based AI chatbot built using WebLLM, allowing users to run a large lan
 
 ## Getting Started
 ### Clone the repository
+```bash
 git clone https://github.com/Swatita6111/ChatGPT.git
 cd ChatGPT
 
