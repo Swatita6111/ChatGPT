@@ -54,10 +54,11 @@ main {
             border: 1px solid #3c3c3c;
             border-radius: 0.5em;
             bottom: 2rem;
+            margin-top: 20px;
 
             input {
                 width: 80%;
-                padding: 0.5em 0.7em;
+                padding: 0.7em 0.7em;
                 outline: none;
                 border: 0.5rem;
                 background-color: transparent;
@@ -66,7 +67,7 @@ main {
             }
 
             button {
-                padding: 0.5em 0.7em;
+                padding: 0.7em 0.7em;
                 width: 20%;
                 background-color: #1c1c1c;
                 border-radius: 0.45em;
